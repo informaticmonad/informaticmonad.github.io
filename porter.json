@@ -1,0 +1,380 @@
+{
+    "ead": {
+        "eadheader": {
+            "-countryencoding": "iso3166-1",
+            "-dateencoding": "iso8601",
+            "-scriptencoding": "iso15924",
+            "-audience": "internal",
+            "-repositoryencoding": "iso15511",
+            "-findaidstatus": "edited-full-draft",
+            "-langencoding": "iso639-2b",
+            "eadid": {
+                "-countrycode": "us",
+                "-identifier": "ark:/13030/tf4k4003b8",
+                "-mainagencycode": "CIT",
+                "-publicid": "PUBLIC \"-//California Institute of Technology::Archives//TEXT (US::CIT::::The Drawings Of Russell W. Porter)//EN\" \"porter.sgm\"",
+                "#text": "porter.xml"
+            },
+            "filedesc": {
+                "titlestmt": {
+                    "titleproper": [
+                        {
+                            "#text": "Register of the The Drawings Of Russell W. Porter, ",
+                            "date": {
+                                "-calendar": "gregorian",
+                                "-era": "ce",
+                                "#text": "1928-1945"
+                            }
+                        },
+                        {
+                            "-type": "filing",
+                            "#text": "Porter (Russell W.) Drawings"
+                        }
+                    ],
+                    "author": "Processed by Charlotte E. Erwin; machine-readable finding aid created by Michael C. Conkin"
+                },
+                "publicationstmt": {
+                    "publisher": "Archives",
+                    "address": {
+                        "addressline": [
+                            "California Institute of Technology",
+                            "1200 East California Blvd.",
+                            "Mail Code 015A-74",
+                            "Pasadena, CA 91125",
+                            "Phone: (626) 395-2704",
+                            "Fax: (626) 793-8756",
+                            "Email: archives@caltech.edu",
+                            "URL: http://archives.caltech.edu"
+                        ]
+                    },
+                    "date": {
+                        "-calendar": "gregorian",
+                        "-era": "ce",
+                        "#text": "© 1998"
+                    },
+                    "p": "California Institute of Technology. All rights reserved."
+                }
+            },
+            "profiledesc": {
+                "creation": {
+                    "#text": "Machine-readable finding aid derived from MS Word. Date of source: ",
+                    "date": {
+                        "-calendar": "gregorian",
+                        "-era": "ce",
+                        "#text": "September 1998."
+                    }
+                },
+                "langusage": {
+                    "#text": "Description is in ",
+                    "language": "English."
+                }
+            },
+            "revisiondesc": {
+                "change": {
+                    "date": {
+                        "-calendar": "gregorian",
+                        "-era": "ce",
+                        "-normal": "20040323",
+                        "#text": "March 23, 2004"
+                    },
+                    "item": "PUBLIC \"-//California Institute of Technology::Archives//TEXT (US::CIT::::The Drawings Of Russell W. Porter)//EN\" \"porter.sgm\" converted from EAD 1.0 to 2002 by v1to02.cdl.xsl (2004-09-16)."
+                }
+            }
+        },
+        "frontmatter": {
+            "titlepage": {
+                "titleproper": {
+                    "#text": "Register of the The Drawings Of Russell W. Porter, ",
+                    "date": {
+                        "-calendar": "gregorian",
+                        "-era": "ce",
+                        "#text": "1928-1945"
+                    }
+                },
+                "publisher": {
+                    "#text": [
+                        "Archives",
+                        "California Institute of Technology",
+                        "Pasadena, California"
+                    ],
+                    "extptr": {
+                        "-linktype": "simple",
+                        "-show": "embed",
+                        "-actuate": "onload"
+                    }
+                },
+                "list": [
+                    {
+                        "-type": "simple",
+                        "head": "Contact Information:",
+                        "item": [
+                            "Archives",
+                            "California Institute of Technology",
+                            "1200 East California Blvd.",
+                            "Mail Code 015A-74",
+                            "Pasadena, CA 91125",
+                            "Phone: (626) 395-2704",
+                            "Fax: (626) 793-8756",
+                            "Email: archives@caltech.edu",
+                            "URL: http://archives.caltech.edu"
+                        ]
+                    },
+                    {
+                        "-type": "deflist",
+                        "defitem": [
+                            {
+                                "label": "Processed by: ",
+                                "item": "Charlotte E. Erwin"
+                            },
+                            {
+                                "label": "Date Completed: ",
+                                "item": "September 1998"
+                            },
+                            {
+                                "label": "Encoded by: ",
+                                "item": "Michael C. Conkin"
+                            }
+                        ]
+                    }
+                ],
+                "p": "© 1998 California Institute of Technology. All rights reserved."
+            }
+        },
+        "archdesc": {
+            "-level": "collection",
+            "did": {
+                "-id": "did-1.7.1",
+                "head": "Descriptive Summary",
+                "unittitle": {
+                    "-label": "Title",
+                    "#text": "The Drawings Of Russell W. Porter, "
+                },
+                "unitdate": {
+                    "-calendar": "gregorian",
+                    "-era": "ce",
+                    "-type": "inclusive",
+                    "#text": "1928-1945"
+                },
+                "origination": {
+                    "-label": "Creator",
+                    "persname": "Porter, Russell W."
+                },
+                "physdesc": {
+                    "-label": "Extent",
+                    "#text": "Linear feet: 1.5"
+                },
+                "repository": {
+                    "-label": "Repository",
+                    "corpname": "California Institute of Technology. Archives.",
+                    "address": {
+                        "addressline": "Pasadena, California 91125"
+                    }
+                },
+                "langmaterial": {
+                    "-label": "Language",
+                    "language": {
+                        "-langcode": "eng",
+                        "#text": "English."
+                    }
+                }
+            },
+            "descgrp": {
+                "-id": "descgrp-1.7.2",
+                "-type": "admininfo",
+                "head": "Administrative Information",
+                "accessrestrict": {
+                    "head": "Access",
+                    "p": "Collection is open for research."
+                },
+                "userestrict": {
+                    "head": "Publication Rights",
+                    "p": "Copyright has not been assigned to the California Institute of Technology Archives. All requests for permission to publish or quote from manuscripts must be submitted in writing to the Head of the Archives. Permission for publication is given on behalf of the California Institute of Technology Archives as the owner of the physical items and is not intended to include or imply permission of the copyright holder, which must also be obtained by the reader."
+                },
+                "prefercite": {
+                    "head": "Preferred Citation",
+                    "p": "[Identification of item, Box and file number], The Drawings Of Russell W. Porter, Archives, California Institute of Technology."
+                }
+            },
+            "bioghist": {
+                "-id": "bioghist-1.7.3",
+                "head": "Biographical Sketch",
+                "p": [
+                    "Although trained as an architect, Russell Williams Porter (1871-1949) made his principal mark in the field of astronomy, in both the technical and popular realms of the discipline. He served as a member of the design team for the 200-inch Palomar telescope-then the biggest telescope in the world-but he is also widely recognized in the U.S. as a leader in the amateur telescope making movement.",
+                    {
+                        "#text": [
+                            "Porter was born in Springfield, Vermont, on December 13, 1871, and attended the Massachusetts Institute of Technology, where he studied to be an architect. While still at MIT he attended a stereopticon lecture by Robert E. Peary in 1892-this was some years before Peary's discovery of the North Pole. Smitten with \"arctic fever,\" Porter urged Peary to include him in his next expedition, but Peary declined. However, over the next thirteen years Porter would make six arctic forays, three of these with Peary. On the last of these, with the Fiala-Ziegler expedition, the party lost their ship to ice floes and were marooned in Franz Josef Land for two years. Porter himself never reached the North Pole, but during these arctic excursions, he taught himself celestial navigation and timekeeping by the stars. He also recorded in many drawings and paintings his own adventures in, and impressions of, the arctic world. These are published in part in",
+                            "ed. Herman Friis (Charlottesville, 1976)."
+                        ],
+                        "title": {
+                            "-linktype": "simple",
+                            "#text": "The Arctic Diary of Russell Williams Porter,"
+                        }
+                    },
+                    "Porter returned from Franz Josef Land to Maine, married and established himself as an architect, building a little community at Port Clyde on the coast. By 1910 he had begun to study telescope making, and he would continue to study and build instruments, and to encourage other amateurs to do so for the rest of his life. In 1915 Porter returned to Boston to teach arch  itecture at MIT. Towards the end of World War I, he was called to the National Bureau of Standards to put his knowledge of optics to use. Then, having been invited by his childhood friend James Hartness to work in the latter's precision tool manufacturing company, Porter returned to his old home in Springfield, Vermont.",
+                    {
+                        "#text": [
+                            "During these years in Springfield, Porter's fame as a telescope maker spread. His local club, the Telescope Makers of Springfield, with their clubhouse Stellafane (temple of the stars, completed in 1924), was written up in ",
+                            "That magazine's editor, Albert G. Ingalls, collaborated with Porter in the writing of the book, ",
+                            "which became a bible in its field. Annual conventions began to take place during summers at Stellafane. "
+                        ],
+                        "title": [
+                            {
+                                "-linktype": "simple",
+                                "#text": "The Scientific American. "
+                            },
+                            {
+                                "-linktype": "simple",
+                                "#text": "Amateur Telescope Making, "
+                            }
+                        ]
+                    },
+                    "In 1928, Porter was recruited by George Ellery Hale, the Director of the Mount Wilson Observatory in Pasadena and himself a famous solar astronomer, to work on the construction of the new 200-inch telescope. The world's largest telescope would eventually be operated by the California Institute of Technology in cooperation with the Carnegie Institution of Washington. Funded by the Rockefeller Foundation, the construction of the observatory and telescope on Palomar Mountain in San Diego County took approximately twenty years. During these years, Porter undertook the architectural designs for the necessary shops, labs and offices on the Caltech campus, and he contributed substantially to the mechanical and optical design work for the telescope. Almost every summer he managed to return to Vermont for the annual conventions at Stellafane.",
+                    "One particular aspect of Porter's genius was his ability to do three-dimensional cutaway drawings of all kinds of mechanical objects. He had perfected this skill during work on the 200-inch telescope. With the outbreak of World War II he found that his draftman's skills were highly desired by the military to demonstrate the design of rockets and other ordnance and equipment prior to the building of prototypes. Porter also became closely involved in the design and production of the so-called roof prism, used in new, high-precision optical sights on artillery.",
+                    "Although he had suffered a serious heart attack as early as 1935, Porter hoped to live, and did live-unlike Hale-to see the completion of the 200-inch telescope, which was dedicated on June 3, 1948. Porter died at his home in Pasadena on February 22, 1949. ",
+                    {
+                        "#text": [
+                            "For a complete biography, see Berton C. Willard, ",
+                            "(Freeport, Maine, 1976)."
+                        ],
+                        "title": {
+                            "-linktype": "simple",
+                            "#text": "Russell W. Porter"
+                        }
+                    }
+                ]
+            },
+            "scopecontent": {
+                "-id": "scopecontent-1.7.4",
+                "head": "Scope of the Collection",
+                "p": [
+                    "The drawings of Russell W. Porter in the Caltech Archives represent only a small portion of his output, but they range over a variety of subjects from his California period, beginning in 1928. The works have been divided into series and subseries; for example, building designs for Caltech are further subdivided for individual structures. Highlights of the collection include original design proposals for the 200-inch telescope mount, in both schematic and three-dimensional/cutaway form, plus a series of drawing of Hale's spectrohelioscope. Some of Porter's military drawings are also represented, as well as miscellaneous drawings of Caltech engineering projects such as the Hydrodynamics Laboratory.",
+                    {
+                        "#text": "Many of the drawings have been reproduced and scanned into the Caltech Archives' picture database, PhotoNet, which is searchable from the Archives' website at",
+                        "extref": {
+                            "-linktype": "simple",
+                            "-href": "http://www.caltech.edu/~archives/",
+                            "#text": "http://www.caltech.edu/~archives/"
+                        }
+                    },
+                    "In the following catalog, the number in square brackets at the end of an entry, beginning with the letters RWP, represents the PhotoNet identification number. For example, in Section I, Series I, item number 8 has the PhotoNet number RWP1.1-8.",
+                    {
+                        "#text": [
+                            "Charlotte E. Erwin",
+                            "Associate Archivist",
+                            "September 1998"
+                        ]
+                    }
+                ]
+            },
+            "controlaccess": {
+                "head": "Indexing Terms",
+                "p": "The following terms have been used to index the description of this collection.",
+                "persname": [
+                    "Porter, Russell W.",
+                    "Hale, George Ellery"
+                ],
+                "corpname": [
+                    "California Institute of Technology",
+                    "Palomar Observatory"
+                ],
+                "subject": [
+                    "Drawings, technical",
+                    "Drawings, military",
+                    "Astronomy, telescopes",
+                    "Astronomy, solar"
+                ]
+            },
+            "add": {
+                "relatedmaterial": {
+                    "head": "Related Collections",
+                    "p": [
+                        "The Papers of George Ellery Hale ",
+                        "Palomar Papers"
+                    ]
+                }
+            },
+            "dsc": {
+                "-type": "combined",
+                "head": "Collection Contents",
+                "p": {
+                    "#text": "The complete finding aid with full container list is available in PDF by accessing ",
+                    "extref": {
+                        "-href": "http://resolver.caltech.edu/CaltechFA:FA_Porter_R",
+                        "#text": "Caltech Archives Finding Aids Online."
+                    }
+                },
+                "c01": [
+                    {
+                        "-level": "OTHERLEVEL",
+                        "did": {
+                            "unittitle": "Group I: The Caltech Campus"
+                        },
+                        "scopecontent": {
+                            "p": "Series I: Buildings and plans"
+                        }
+                    },
+                    {
+                        "-level": "OTHERLEVEL",
+                        "did": {
+                            "unittitle": "Group II: Palomar Observatory and Misc. Astronomy"
+                        },
+                        "scopecontent": {
+                            "p": [
+                                "SERIES I: Studies of Victoria-type and other mounts",
+                                "SERIES II: 200-inch mirror grinding and polishing",
+                                "SERIES III: 200-inch telescope",
+                                "SERIES IV: Observatory building and grounds",
+                                "SERIES V: Palomar miscellaneous",
+                                "SERIES VI: Miscellaneous astronomy"
+                            ]
+                        }
+                    },
+                    {
+                        "-level": "OTHERLEVEL",
+                        "did": {
+                            "unittitle": "Group III: Solar Astronomy"
+                        },
+                        "scopecontent": {
+                            "p": [
+                                "SERIES I: Spectrohelioscope series",
+                                "SERIES II: Solar telescope studies"
+                            ]
+                        }
+                    },
+                    {
+                        "-level": "OTHERLEVEL",
+                        "did": {
+                            "unittitle": "Group IV: Military and technical drawings"
+                        },
+                        "scopecontent": {
+                            "p": [
+                                "SERIES I: Rocket launcher drawings",
+                                "SERIES II: Miscellaneous military ",
+                                "SERIES III: Hydrodynamics Laboratory ",
+                                "SERIES IV: Miscellaneous technical"
+                            ]
+                        }
+                    },
+                    {
+                        "-level": "OTHERLEVEL",
+                        "did": {
+                            "unittitle": "OVERSIZE"
+                        }
+                    },
+                    {
+                        "-level": "OTHERLEVEL",
+                        "did": {
+                            "unittitle": "DUPLICATES AND NEGATIVES"
+                        }
+                    },
+                    {
+                        "-level": "OTHERLEVEL",
+                        "did": {
+                            "unittitle": "MISCELLANEOUS PAPERS"
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
