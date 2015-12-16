@@ -1,0 +1,188 @@
+{  
+   "ead":{  
+      "eadheader":{  
+         "eadid":{  
+            "_countrycode":"US",
+            "_url":"http://www.usc.edu/libraries/finding_aids/records/finding_aid.php?fa=0130",
+            "_mainagencycode":"CLSU",
+            "__text":"0130"
+         },
+         "filedesc":{  
+            "titlestmt":{  
+               "titleproper":[  
+                  {  
+                     "num":"0130",
+                     "__text":"Finding Aid of the 1984 Los Angeles Olympics ephemera"
+                  },
+                  {  
+                     "_type":"filing",
+                     "__text":"1984 Los Angeles Olympics ephemera"
+                  }
+               ],
+               "author":"Finding aid prepared by Rebecca Hirsch",
+               "sponsor":"The processing of this collection and the creation of this finding aid was funded by the generous support of the National Historic Publications and Records Commission."
+            },
+            "publicationstmt":{  
+               "publisher":"USC Libraries Special Collections",
+               "address":{  
+                  "addressline":[  
+                     "Doheny Memorial Library  206",
+                     "3550 Trousdale Parkway",
+                     "Los Angeles, California, 90089-0189",
+                     "213-740-5900",
+                     "specol@usc.edu"
+                  ]
+               },
+               "date":"2010"
+            }
+         },
+         "profiledesc":{  
+            "creation":{  
+               "date":"2013-02-11T03:22-0800",
+               "__text":"This finding aid was produced using the Archivists' Toolkit"
+            },
+            "descrules":"Describing Archives: A Content Standard"
+         },
+         "_findaidstatus":"publish_final",
+         "_repositoryencoding":"iso15511",
+         "_countryencoding":"iso3166-1",
+         "_dateencoding":"iso8601",
+         "_langencoding":"iso639-2b"
+      },
+      "archdesc":{  
+         "did":{  
+            "unittitle":"1984 Los Angeles Olympics ephemera",
+            "unitid":{  
+               "_countrycode":"US",
+               "_label":"Collection number",
+               "_repositorycode":"CLSU",
+               "__text":"0130"
+            },
+            "repository":{  
+               "corpname":"USC Libraries Special Collections"
+            },
+            "langmaterial":{  
+               "language":{  
+                  "_langcode":"eng",
+                  "__text":"English"
+               }
+            },
+            "physdesc":{  
+               "extent":[  
+                  "3.33 Linear feet",
+                  "4 boxes"
+               ]
+            },
+            "unitdate":{  
+               "_normal":"1984/1984",
+               "__text":"1984"
+            },
+            "abstract":{  
+               "_id":"ref10",
+               "_label":"Abstract",
+               "__text":"The 1984 Los Angeles Olympics ephemera contains promotional materials, ephemera and newspapers published during or for the 1984 Los Angeles Olympics, which were held in Los Angeles from July 28 to August 12, 1984."
+            }
+         },
+         "prefercite":{  
+            "head":"Preferred Citation",
+            "p":"[Box/folder# or item name], 1984 Los Angeles Olympics ephemera, Collection no. 130, Special Collections, USC Libraries, University of Southern California.",
+            "_id":"ref4"
+         },
+         "userestrict":{  
+            "head":"Conditions Governing Use",
+            "p":"The collection contains published articles; researchers are reminded of the copyright restrictions imposed by publishers on reusing their articles and parts of books. It is the responsibility of researchers to acquire permission from publishers when reusing such materials. The copyright to unpublished materials belongs to the heirs of the writers. Permission to publish, quote, or reproduce must be secured from the repository and the copyright holder.",
+            "_id":"ref3"
+         },
+         "accessrestrict":{  
+            "head":"Conditions Governing Access",
+            "p":"COLLECTION STORED OFF-SITE. Advance notice required for access. Consult finding aid for additional information.",
+            "_id":"ref2"
+         },
+         "bioghist":{  
+            "head":"Historical Note",
+            "p":"The 1984 Summer Olympics were held in Los Angeles from July 28-August 12.",
+            "_id":"ref5"
+         },
+         "scopecontent":{  
+            "head":"Scope and Content",
+            "p":"Promotional materials, newspapers, and ephemera from the 1984 Los Angeles Olympic Games. Also included in this collection is a commemorative pin and a commemorative plate.",
+            "_id":"ref1"
+         },
+         "controlaccess":{  
+            "corpname":{  
+               "_rules":"Anglo-American_Cataloguing_Rules__2nd_ed.",
+               "_source":"lcnaf",
+               "__text":"Olympic Games. (23rd : 1984 : Los Angeles, Calif.). -- Archives"
+            },
+            "genreform":[  
+               {  
+                  "_source":"gmgpc",
+                  "__text":"Clippings"
+               },
+               {  
+                  "_source":"aat",
+                  "__text":"Ephemera"
+               },
+               {  
+                  "_source":"aat",
+                  "__text":"Programs"
+               }
+            ]
+         },
+         "dsc":{  
+            "c01":[  
+               {  
+                  "did":{  
+                     "unittitle":"Publications",
+                     "container":{  
+                        "_id":"cid9328001",
+                        "_type":"Box",
+                        "__text":"1-2"
+                     }
+                  },
+                  "_id":"ref6",
+                  "_level":"series"
+               },
+               {  
+                  "did":{  
+                     "unittitle":"Artifacts",
+                     "container":{  
+                        "_id":"cid9328002",
+                        "_type":"Box",
+                        "__text":"2"
+                     }
+                  },
+                  "_id":"ref7",
+                  "_level":"series"
+               },
+               {  
+                  "did":{  
+                     "unittitle":"Ephemera",
+                     "container":{  
+                        "_id":"cid9341020",
+                        "_type":"Box",
+                        "__text":"3"
+                     }
+                  },
+                  "_id":"ref9",
+                  "_level":"series"
+               },
+               {  
+                  "did":{  
+                     "unittitle":"Newspapers",
+                     "container":{  
+                        "_id":"cid9328004",
+                        "_type":"Box",
+                        "__text":"3-4"
+                     }
+                  },
+                  "_id":"ref8",
+                  "_level":"series"
+               }
+            ],
+            "_type":"combined"
+         },
+         "_level":"collection"
+      }
+   }
+}
