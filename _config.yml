@@ -8,7 +8,7 @@ title: informatic memoranda
 description: > # this means to ignore newlines until "email:"
    gloria’s field notes on information & technology 
 
-email: a-mail@mail.mail
+# email: a-mail@mail.mail
 #blog logo
 logo: "/assets/images/logo.jpg"
 # blog cover
@@ -20,7 +20,7 @@ author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "informaticmonad.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: ‘@informaticmonad’
